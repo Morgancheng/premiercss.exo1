@@ -1,0 +1,17 @@
+h1 {
+  font-size: 80px;
+  text-align: center;
+}
+h2 {
+  font-size: 40px
+  text-align: left;
+}
+p {
+  font-style: italic;
+}
+span {
+  font-weight: bold;
+}
+a {
+  text-decoration: line-through;
+}
